@@ -1,0 +1,16 @@
+{
+  "name": "wgxpath",
+  "description": "Wicked Good XPath",
+  "version": "1.0.0",
+  "url": "https://github.com/google/wicked-good-xpath",
+  "homepage": "https://github.com/jagtesh/wgxpath-latest",
+  "author": "Jagtesh Chadha <jagtesh@gmail.com>",
+  "main": "wgxpath.install.js",
+  "keywords": [
+    "xpath",
+    "wgxpath",
+    "wicked-good-xpath",
+    "parse",
+    "html"
+  ]
+}

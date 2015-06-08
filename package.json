@@ -1,0 +1,32 @@
+{
+  "name": "wgxpath",
+  "description": "Wicked Good XPath",
+  "version": "1.0.0",
+  "url": "https://github.com/google/wicked-good-xpath",
+  "homepage": "https://github.com/jagtesh/wgxpath-latest",
+  "author": {
+    "name": "Jagtesh Chadha",
+    "email": "jagtesh@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jagtesh/wgxpath-latest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/google/wicked-good-xpath/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/google/wicked-good-xpath/blob/master/LICENSE"
+    }
+  ],
+  "main": "wgxpath.install.js",
+  "keywords": [
+    "xpath",
+    "wgxpath",
+    "wicked-good-xpath",
+    "parse",
+    "html"
+  ]
+}
